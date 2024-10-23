@@ -11,3 +11,6 @@ Este repositório contém códigos, exemplos e exercícios da materia de redes
 - **/exercicios**: Listas de exercícios propostos na disciplina.  
 - **/projetos**: Projetos maiores ou avaliações práticas.  
 - **/docs**: Material de apoio, como slides e PDFs.  
+
+## ferramentas
+wireshark
