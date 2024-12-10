@@ -98,9 +98,3 @@ Os switches utilizam uma **tabela de endereços MAC** para decidir para onde enc
 | **Complexidade**        | Recursos avançados requerem conhecimento técnico para configuração e gerenciamento.           |
 | **Redundância**         | É necessário planejar para evitar loops e falhas com protocolos como STP e links redundantes. |
 
----
-
-## 9. Conclusão
-
-Os switches são fundamentais para redes modernas, oferecendo desempenho, segurança e flexibilidade. A escolha do tipo de switch depende das necessidades da rede, considerando fatores como custo, escalabilidade e recursos avançados.
-
