@@ -16,8 +16,6 @@ Na topologia em estrela, todos os dispositivos são conectados a um dispositivo 
 | **Desvantagens**    | - Dependência do dispositivo central. <br> - Custo mais alto devido à quantidade de cabos. |
 | **Exemplo de Uso**  | Redes locais (LANs) modernas. |
 
-![Esquema da topologia em estrela: um switch central com dispositivos conectados a ele.](image_placeholder)
-
 ---
 
 ### 2. Topologia em Anel
